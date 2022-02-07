@@ -1,0 +1,5 @@
+numpy==1.22.2
+opencv-python==4.5.5.62
+discum==1.4.0
+pytesseract==0.3.8
+urllib3==1.26.8
